@@ -1,0 +1,24 @@
+.nav {
+    background-color: #28a745;
+    color: #FFF
+}
+
+.nav-text {
+    color: #FFF
+}
+
+.forn-container {
+    
+    background-color: #28a745;
+    color: #FFF
+}
+
+.con-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
